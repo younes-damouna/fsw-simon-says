@@ -49,5 +49,11 @@ body {
 
 .pressed {
   box-shadow: 0 0 20px white;
-  background-color: grey;
+  background-color: grey !important;
+}
+
+.btnHard{
+  cursor: pointer;
+  padding: 20px;
+  margin: 5px;
 }
