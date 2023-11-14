@@ -284,7 +284,7 @@ document.body.append(resetHardness)
 
 // reset btn onclick
 resetHardness.addEventListener("click", function () {
-    window.location = "/"
+    window.location = "./"
 
 })
 
